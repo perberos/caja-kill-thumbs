@@ -1,0 +1,8 @@
+[Caja Extension]
+Icon=image-loading
+Name=Kill Thumbs
+Description=Remove Thumbs.db files while browsing
+Author=Perberos <perberos@gmail.com>
+Copyright=Copyright (C) 2015, Perberos.
+Version=0.1
+Website=http://perberos.com.ar/
